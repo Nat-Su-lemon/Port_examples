@@ -1,0 +1,4 @@
+# Lines starting with # are ignored, blank lines too
+AT
+AT+GMR
+AT+CWMODE=1
